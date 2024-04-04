@@ -6,4 +6,5 @@ video load
 https://github.com/Donghyeoncode/object-detection-on-opencv/tree/main/tracking_test/video_load
 
 
-file:///home/dong/Downloads/masked.gif
+
+![masked](https://github.com/Donghyeoncode/object-detection-on-opencv/assets/155282350/8f3539af-635e-450c-979b-67336da0a3c6)
